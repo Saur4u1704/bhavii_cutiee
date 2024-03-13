@@ -293,7 +293,7 @@ function reveal() {
     w = 300;h = 395;
   }
   var img = document.createElement("img");
-img.setAttribute("src", "BHAVIII.jpeg"); // Replace "path/to/your/image.jpg" with the actual path to your image
+img.setAttribute("src", "bhaviii.jpeg"); // Replace "path/to/your/image.jpg" with the actual path to your image
 img.style.width = `${w}px`; // Set the width as needed
 img.style.height = `${h}px`; // Maintain the aspect ratio
 //img.style.border = 'none';
